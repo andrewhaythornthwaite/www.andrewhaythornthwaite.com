@@ -22,25 +22,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:vascular-clinic-20261105-161500@andrewhaythornthwaite.com
-DTSTAMP:20260615T095154Z
+DTSTAMP:20260615T095954Z
 DTSTART;TZID=Europe/London:20261105T161500
 DTEND;TZID=Europe/London:20261105T171500
-SUMMARY:Vascular Clinic — Mr Lim
-LOCATION:Vascular Clinic, Clinic 2
-DESCRIPTION:Vascular Surgery appointment with Mr Lim.\nClinic 2 — Vascular Clinic.\n\nReason: Follow-up for knee injury sustained doing jiu jitsu in New Zealand. Mr Lim is the same consultant I saw previously\, and the one who arranged the ultrasound and the nerve test.\n\nIMPORTANT: Lipid Free (fast / avoid fatty foods beforehand — confirm requirements with the clinic).\n\nContact: 0207 830 2163
+SUMMARY:Vascular Clinic - Mr Lim
+LOCATION:Vascular Clinic\, Clinic 2
+DESCRIPTION:Vascular Surgery appointment with Mr Lim.\nClinic 2 - Vascular C
+ linic.\n\nReason: Follow-up for knee injury sustained doing jiu jitsu in Ne
+ w Zealand. Mr Lim is the same consultant I saw previously\, and the one who
+  arranged the ultrasound and the nerve test.\n\nIMPORTANT: Lipid Free (fast
+  / avoid fatty foods beforehand - confirm requirements with the clinic).\n\
+ nContact: 0207 830 2163
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Vascular Clinic — Mr Lim (1 week to go)
+DESCRIPTION:Vascular Clinic - Mr Lim (1 week to go)
 TRIGGER:-P1W
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Vascular Clinic — Mr Lim (3 days to go)
+DESCRIPTION:Vascular Clinic - Mr Lim (3 days to go)
 TRIGGER:-P3D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Vascular Clinic — Mr Lim (tomorrow)
+DESCRIPTION:Vascular Clinic - Mr Lim (tomorrow)
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
